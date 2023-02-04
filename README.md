@@ -12,11 +12,11 @@ You can now make changes by using this as a starting point for your work, or you
 
 ## Pull Requests
 
-Pull requests allow you to suggest certain changes you have made to the main repository. Your changes can then be incorporated in the original (usually called upstream) repository(i.e, your *pull request* is *merged*).
+Pull requests allow you to suggest certain changes you have made to the main repository. Your changes can then be incorporated in the original (usually called upstream) repository(i.e, your _pull request_ is _merged_).
 
 Start by editing the following line:
 
-- [ ] git is awesome!
+- [x] git is awesome!
 
 Check the box saying git is awesome. You can do this **in the browser** by clicking on this file name(README.md) in the code explorer, and then clicking the edit button(little pencil icon). See [this](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files#editing-files-in-your-repository) if you are having trouble with this step.
 
@@ -26,4 +26,4 @@ After you have commited the changes, you can [create a pull request](https://doc
 
 ## Next steps
 
-Next steps are in [CLONING.md](CLONING.md) 
+Next steps are in [CLONING.md](CLONING.md)
